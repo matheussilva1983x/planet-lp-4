@@ -2,25 +2,25 @@ import { Star } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Ana Ribeiro",
+    name: "Lucas Ferreira",
     role: "Comprou apartamento em Lisboa",
     text:
       "Encontrei o meu apartamento em menos de uma semana. Atendimento incrível!",
-    avatar: "https://i.pravatar.cc/80?img=47",
+    avatar: "https://i.pravatar.cc/80?img=3",
   },
   {
-    name: "Marcos Andrade",
+    name: "Bruna Costa",
     role: "Alugou em Lisboa",
     text:
-      "Processo claro e seguro. Senti-me acompanhado do início ao fim.",
-    avatar: "https://i.pravatar.cc/80?img=12",
+      "Processo claro e seguro. Senti-me acompanhada do início ao fim.",
+    avatar: "https://i.pravatar.cc/80?img=15",
   },
   {
-    name: "Camila Soares",
+    name: "Tiago Mendes",
     role: "Comprou casa no Porto",
     text:
       "Equipa humana e muito atenciosa. Recomendo de olhos fechados!",
-    avatar: "https://i.pravatar.cc/80?img=32",
+    avatar: "https://i.pravatar.cc/80?img=25",
   },
 ];
 
